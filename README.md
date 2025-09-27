@@ -1,6 +1,6 @@
 # Climate Dataset Merging Exercise
 
-This module checken includes a hands-on practice notebook and an answer key that walk through
+This module checkin includes a hands-on practice notebook and an answer key that walk through
 merging two climate datasets over a spatial domain with mismatched spatial and temporal
 resolution using `xarray`.
 
